@@ -1,0 +1,2 @@
+Customer Name: nasir, Meter Number: 111, Units: 300.00, Total Bill: 2310.00 Tk
+Customer Name: shipa, Meter Number: 112, Units: 222.00, Total Bill: 1491.00 Tk

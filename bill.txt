@@ -1,0 +1,1 @@
+Customer Name: maria, Total Amount: 2800.0, Discount: 140.0, Net Pay: 2660.0
